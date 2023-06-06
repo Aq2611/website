@@ -1,0 +1,32 @@
+.container{
+    border: darkkhaki;
+    display: flexbox;
+    border: 2px solid green;
+    
+   
+}
+
+.container .caja1{
+    background-color: coral;
+    border: darkkhaki;   
+    width: 70px;
+    height: 70px;
+   
+    
+}
+.container .caja2{
+    background-color: cornflowerblue;
+    width: 70px;
+    height: 70px;
+    margin-top: 10px;
+    margin-left: 80px;
+}
+.container .caja3{
+    background-color: darkseagreen;
+    border: darkkhaki;
+    margin-top: 10px;
+    width: 70px;
+    height: 70px;
+    margin-left: 160px;
+}
+
